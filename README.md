@@ -16,6 +16,7 @@
 - [if-thursday](https://github.com/vanodevium/if-thursday) The most useful package for Node.js (just for fun, or not)
 - [typher](https://typher.review) Typographic editor online
 - [uniqus](https://uniqus.name) Unique name generator online
+- [rustricted.dev](https://github.com/vanodevium/rustricted) The first and only honest public license
 - [Node.js framework stars](https://github.com/vanodevium/node-framework-stars) A list of popular GitHub projects related to Node.js web frameworks (ranked by stars)
 - [Golang framework stars](https://github.com/vanodevium/go-framework-stars) A list of popular GitHub projects related to Golang web frameworks (ranked by stars)
 - [PHP framework stars](https://github.com/vanodevium/php-framework-stars) A list of popular GitHub projects related to PHP web frameworks (ranked by stars)
